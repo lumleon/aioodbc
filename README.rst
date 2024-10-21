@@ -1,4 +1,7 @@
 aioodbc
+
+-- It does not support pyodbc for MSSQL connection at the moment.
+
 =======
 .. image:: https://github.com/aio-libs/aioodbc/workflows/CI/badge.svg
    :target: https://github.com/aio-libs/aioodbc/actions?query=workflow%3ACI
